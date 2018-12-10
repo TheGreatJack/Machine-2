@@ -162,6 +162,16 @@ Unless otherwise specified both lectures and discussion sections are weekday but
       </td>
     </tr>
     <tr>
+      <td>Discussion Section</td>
+      <td> Tuesday <br> Dec 11 <br> 34-502 </td>
+      <td>
+	<b>Transfer learning</b><br>
+      </td>
+      <td>
+	Soon
+      </td>
+    </tr>
+    <tr>
       <td>Lecture 8</td>
       <td> Wednesday <br> Dec 12 <br> 34-502 </td>
       <td>
