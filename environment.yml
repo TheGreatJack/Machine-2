@@ -4,6 +4,7 @@ dependencies:
   - python=3.6
   - jupyter
   - scikit-learn
+  - scikit-image
   - pandas
   - matplotlib
   - plotly
