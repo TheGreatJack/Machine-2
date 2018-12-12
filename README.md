@@ -158,7 +158,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	CNN architectures
       </td>
       <td>
-	Soon
+	<a href="/notebooks/lectures/lect7-CNN.ipynb">[slides]</a>
       </td>
     </tr>
     <tr>
@@ -168,7 +168,7 @@ Unless otherwise specified both lectures and discussion sections are weekday but
 	<b>Transfer learning</b><br>
       </td>
       <td>
-	Soon
+	<a href="/notebooks/lectures/transfer-learning.ipynb">[notebook]</a>
       </td>
     </tr>
     <tr>
